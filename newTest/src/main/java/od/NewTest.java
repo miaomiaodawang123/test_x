@@ -8,10 +8,6 @@ public class NewTest {
      */
     void say(){
         System.out.println("第一次使用 github ....");
-        System.out.println("第一次使用 github ....");
-        System.out.println("第一次使用 github ....");
-        System.out.println("第一次使用 github ....");
-        System.out.println("第一次使用 github ....");
-        System.out.println("第一次使用 github ....");
+
     }
 }
